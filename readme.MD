@@ -11,6 +11,13 @@
 
 ## Place your resume in the /resume folder
 
+## .env
+LINKEDIN_EMAIL
+LINKEDIN_PASSWORD
+GMAIL_USER
+GMAIL_APP_PASSWORD
+GEMINI_API_KEY
+
 ## Run
 
 npm install
